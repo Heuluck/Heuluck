@@ -1,4 +1,26 @@
-### Hi there 👋
+### Hi there 👋 I'm Heuluck from NanChang University
+- 🔭 I’m currently working on several front-end projects with React or VanillaJS
+- 📚 I'm learning React by myself and also learning C++ at school
+- 📫 How to reach me: Simply sending e-mails to heuluck@outlook.com
+#### I am also an NCUHOMER working for NCUHOME
+## Always Use
+![Static Badge](https://img.shields.io/badge/React-gray?style=for-the-badge&logo=react)
+![Static Badge](https://img.shields.io/badge/Node.js-%23006266?style=for-the-badge&logo=nodedotjs&logoColor=%2386BD20)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
+#### Using
+<div><p align="">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,javascript,cpp,git&theme=dark" />
+</p></div>  
+
+### Dashboard
+- WakaTime
+
+[![Heuluck's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Heuluck)](https://github.com/anuraghazra/github-readme-stats)
+- Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Heuluck&layout=donut)
+
+
 
 <!--
 **Heuluck/Heuluck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
