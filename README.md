@@ -3,6 +3,7 @@
 - 📚 I'm learning React by myself and also learning C++ at school
 - 📫 How to reach me: Simply sending e-mails to heuluck@outlook.com
 #### I am also an NCUHOMER working for NCUHOME
+- 🎈 [Visit my blog here!](https://heuluck.top/)
 ## Always Use
 ![Static Badge](https://img.shields.io/badge/React-gray?style=for-the-badge&logo=react)
 ![Static Badge](https://img.shields.io/badge/Node.js-%23006266?style=for-the-badge&logo=nodedotjs&logoColor=%2386BD20)
