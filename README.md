@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Heuluck from NanChang University
 - 🔭 I’m currently working on several front-end projects with React or VanillaJS
-- 📚 I'm learning React by myself and also learning C++ at school
+- 📚 I'm learning React by myself and also learning Java & C++ at school
 - 🐾 Fond of Furry culture, join some furry cons from time to time
 - 📫 How to reach me: Simply sending e-mails to heuluck@outlook.com
 #### I am also an NCUHOMER working for NCUHOME
@@ -14,7 +14,7 @@
 [![Heuluck's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Heuluck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #### Using
 <div><p align="">
-  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,html,css,javascript,cpp,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,html,css,javascript,cpp,java,git&theme=dark" />
 </p></div>
 
 <!--
