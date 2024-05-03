@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on several front-end projects with React or Taro
 - 📚 I'm learning React, Vue3 and Express.js by myself, and also learning Java & C++ at school
 - 🐾 Fond of Furry culture, join some furry cons from time to time
-- 📫 How to reach me: Simply sending e-mails to heuluck@outlook.com
+- 📫 How to reach me: Simply send e-mails to heuluck@outlook.com
 #### I am also an NCUHOMER working for NCUHOME
 - 🎈 [Visit my blog here!](https://heuluck.top/)
 ## Always Use
