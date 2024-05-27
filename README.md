@@ -9,7 +9,6 @@
 ![Static Badge](https://img.shields.io/badge/React-gray?style=for-the-badge&logo=react)
 ![Static Badge](https://img.shields.io/badge/Typescript-lightgray?style=for-the-badge&logo=typescript)
 ![Static Badge](https://img.shields.io/badge/Node.js-%23006266?style=for-the-badge&logo=nodedotjs&logoColor=%2386BD20)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
 
 [![Heuluck's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Heuluck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #### Using
