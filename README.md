@@ -12,7 +12,7 @@
 [![Heuluck's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Heuluck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #### Using
 <div>
-  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,html,css,javascript,cpp,java,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,html,css,javascript,c,cpp,java,git&theme=dark" />
 </div>
 
 <!--
