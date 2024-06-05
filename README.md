@@ -9,7 +9,7 @@
 ![Static Badge](https://img.shields.io/badge/Node.js-%23006266?style=for-the-badge&logo=nodedotjs&logoColor=%2386BD20)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Heuluck)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heuluck&count_private=true)
+![Heuluck's stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Heuluck&theme=react)
 [![Heuluck's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Heuluck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Using
