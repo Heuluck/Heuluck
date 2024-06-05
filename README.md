@@ -1,12 +1,11 @@
 ### Hi there 👋 I'm Heuluck from NanChang University
-- 🔭 I’m currently working on several front-end projects with React or Taro
-- 📚 I'm learning React, Vue3 and Express.js by myself, and also learning Java & C++ at school
+- 🔭 Currently working on several projects with React / Taro / Next.js
+- 📚 Learning React, Vue3, Express.js, Next.js, Java and MySQL 
 - 🐾 Fond of Furry culture, join some furry cons from time to time
-- 📫 How to reach me: Simply send e-mails to heuluck@outlook.com
-- 🎈 [Visit my blog here!](https://heuluck.top/)
+- 🎈 [Visit my blog here](https://heuluck.top/)
 ## Most Used Languages
-![Static Badge](https://img.shields.io/badge/React-%23e6e6e6?style=for-the-badge&logo=react)
-![Static Badge](https://img.shields.io/badge/Typescript-%236eb3ff?style=for-the-badge&logo=typescript)
+![Static Badge](https://img.shields.io/badge/React-%23242938?style=for-the-badge&logo=react)
+![Static Badge](https://img.shields.io/badge/Typescript-%23303952?style=for-the-badge&logo=typescript)
 ![Static Badge](https://img.shields.io/badge/Node.js-%23006266?style=for-the-badge&logo=nodedotjs&logoColor=%2386BD20)
 
 [![Heuluck's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Heuluck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -17,7 +16,7 @@
 
 #### Learning
 <div>
-  <img src="https://skillicons.dev/icons?i=nextjs,mysql,nginx,expressjs,vue,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,mysql,nginx,expressjs,vue&theme=dark" />
 </div>
 <!--
 - Most Used Languages
