@@ -12,14 +12,24 @@
 ![Heuluck's stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Heuluck&theme=react)
 [![Heuluck's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Heuluck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Using
+#### Using and learning
 <div>
-  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,vite,webpack,html,css,javascript,c,cpp,java,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,vite,webpack,html,css,javascript,markdown,davinci,c,cpp,java,git&theme=dark" />
 </div>
 
-#### Learning
+#### Trying hard to learn
 <div>
-  <img src="https://skillicons.dev/icons?i=nextjs,mysql,nginx,expressjs,vue&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,tailwind,nginx,expressjs,vue&theme=dark" />
+</div>
+
+#### Reviewing
+<div>
+  <img src="https://skillicons.dev/icons?i=golang,python&theme=dark" />
+</div>
+
+#### Failed to learn
+<div>
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" />
 </div>
 <!--
 - Most Used Languages
