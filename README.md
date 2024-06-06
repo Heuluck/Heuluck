@@ -7,16 +7,16 @@
 ![Static Badge](https://img.shields.io/badge/React-%23242938?style=for-the-badge&logo=react)
 ![Static Badge](https://img.shields.io/badge/Typescript-%23303952?style=for-the-badge&logo=typescript)
 ![Static Badge](https://img.shields.io/badge/Node.js-%23006266?style=for-the-badge&logo=nodedotjs&logoColor=%2386BD20)
-<details>
-<summary>展开查看</summary>
-  
-[![Heuluck's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Heuluck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Heuluck)](https://git.io/streak-stats)
-</details>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heuluck&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heuluck&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heuluck&theme=vue&utcOffset=8)
+<details>
+<summary>WakaTime and other Stats</summary>
+  
+[![Heuluck's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Heuluck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Heuluck)](https://git.io/streak-stats)
+</details>
 
 #### Using and learning
 <div>
