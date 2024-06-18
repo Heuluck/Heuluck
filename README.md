@@ -25,7 +25,12 @@
 
 #### Trying hard to learn
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql,tailwind,nginx,expressjs,vue&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,tailwind,expressjs&theme=dark" />
+</div>
+
+#### Wanna learn
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql,nginx,vue,linux&theme=dark" />
 </div>
 
 #### Reviewing
