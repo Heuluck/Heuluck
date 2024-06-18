@@ -30,7 +30,7 @@
 
 #### Wanna learn
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql,nginx,vue,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nginx,vue,linux&theme=dark" />
 </div>
 
 #### Reviewing
