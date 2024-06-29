@@ -3,7 +3,7 @@
 - 📚 Learning React, Express.js, Java and MySQL 
 - 🐾 Fond of Furry, join some furry cons from time to time
 - 🎈 [Visit my blog here](https://heuluck.top/)
-## My github stats
+## My Github stats
 ![Static Badge](https://img.shields.io/badge/React-%23242938?style=for-the-badge&logo=react)
 ![Static Badge](https://img.shields.io/badge/Typescript-%23303952?style=for-the-badge&logo=typescript)
 ![Static Badge](https://img.shields.io/badge/Node.js-%23006266?style=for-the-badge&logo=nodedotjs&logoColor=%2386BD20)
