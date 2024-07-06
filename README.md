@@ -25,7 +25,7 @@
 
 #### Trying hard to learn
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql,tailwind,expressjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,tailwind,expressjs,python&theme=dark" />
 </div>
 
 #### Wanna learn
@@ -35,7 +35,7 @@
 
 #### Reviewing
 <div>
-  <img src="https://skillicons.dev/icons?i=golang,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=golang&theme=dark" />
 </div>
 
 #### Failed to learn
