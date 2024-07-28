@@ -20,12 +20,12 @@
 
 #### Using and learning
 <div>
-  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,vite,webpack,html,css,javascript,markdown,c,cpp,java,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,vite,webpack,tailwind,html,css,javascript,markdown,c,cpp,java,git&theme=dark" />
 </div>
 
 #### Trying hard to learn
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql,tailwind,expressjs,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,expressjs,python&theme=dark" />
 </div>
 
 #### Wanna learn
