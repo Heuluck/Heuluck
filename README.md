@@ -25,7 +25,7 @@
 
 #### Trying hard to learn
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql,expressjs,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,expressjs,remix,python&theme=dark" />
 </div>
 
 #### Wanna learn
