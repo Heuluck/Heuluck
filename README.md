@@ -25,12 +25,12 @@
 
 #### Trying hard to learn
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql,expressjs,remix,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,expressjs,remix&theme=dark" />
 </div>
 
 #### Wanna learn
 <div>
-  <img src="https://skillicons.dev/icons?i=nginx,vue,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nginx,vue,linux,python&theme=dark" />
 </div>
 
 #### Reviewing
