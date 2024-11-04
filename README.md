@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Heuluck from Nanchang University
-- 🔭 Currently working on several projects with React / Taro / Vike (Vite-Plugin-SSR) / Express.js
-- 📚 Learning React, Express.js, Java and MySQL 
+- 🔭 Currently working on several projects with React / Taro / Remix.js / Express.js
 - 🐾 Fond of Furry, join some furry cons from time to time
 - 🎈 [Visit my blog here](https://heuluck.top/)
 ## My Github stats
