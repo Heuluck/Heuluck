@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Heuluck from Nanchang University
+### Hi there 👋 I'm 🐾Heuluck from Nanchang University
 - 🔭 Currently working on several projects with React / Taro / Remix.js / Express.js
-- 🐾 Fond of Furry, join some furry cons from time to time
+- 🐾 Fond of Furry, may find me in furry cons
 - 🎈 [Visit my blog here](https://heuluck.top/)
 ## My Github stats
 ![Static Badge](https://img.shields.io/badge/React-%23242938?style=for-the-badge&logo=react)
@@ -11,33 +11,33 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heuluck&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heuluck&theme=vue&utcOffset=8)
 <details>
-<summary>WakaTime and other Stats</summary>
+<summary> <strong>WakaTime and other Stats</strong> </summary>
   
 [![Heuluck's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Heuluck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Heuluck)](https://git.io/streak-stats)
+[![Genius Rank](https://geniusrank.heuluck.top/card/Heuluck)](https://geniusrank.heuluck.top/)
+</div>
 </details>
 
-#### Using and learning
+## Stacks
+#### 在学在用 Using and learning
 <div>
   <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,vite,webpack,tailwind,html,css,javascript,markdown,c,cpp,java,git&theme=dark" />
 </div>
 
-#### Trying hard to learn
+#### 努力在学 Trying hard to learn
 <div>
   <img src="https://skillicons.dev/icons?i=mysql,expressjs,remix&theme=dark" />
 </div>
 
-#### Wanna learn
-<div>
-  <img src="https://skillicons.dev/icons?i=nginx,vue,linux,python&theme=dark" />
-</div>
-
-#### Reviewing
+#### 复习中 Reviewing
 <div>
   <img src="https://skillicons.dev/icons?i=golang&theme=dark" />
 </div>
 
-#### Failed to learn
+#### 学废了 Failed to learn
 <div>
   <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" />
 </div>
