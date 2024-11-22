@@ -17,7 +17,6 @@
 <div>
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Heuluck)](https://git.io/streak-stats)
-[![Genius Rank](https://geniusrank.heuluck.top/card/Heuluck)](https://geniusrank.heuluck.top/)
 </div>
 </details>
 
