@@ -26,20 +26,6 @@
   <img src="https://skillicons.dev/icons?i=react,remix,typescript,nodejs,vite,tailwind,markdown,git&theme=dark" />
 </div>
 
-#### 努力在学 Trying hard to learn
-<div>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,expressjs,rust,cpp,java&theme=dark" />
-</div>
-
-#### 复习中 Reviewing
-<div>
-  <img src="https://skillicons.dev/icons?i=golang&theme=dark" />
-</div>
-
-#### 学废了 Failed to learn
-<div>
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" />
-</div>
 <!--
 - Most Used Languages
 
